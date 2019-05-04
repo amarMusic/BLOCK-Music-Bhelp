@@ -1,0 +1,6 @@
+token=NTc0MTc5NzQwMDUxNzAxNzcx.XM1qDQ.hnEKZiqhG0vS40tKP_68zErg29k
+owner=546791640556371998 
+prefix= B
+game= Bhelp
+stayinchannel=true
+songinstatus=true 
